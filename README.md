@@ -4,7 +4,6 @@
 
 # ❤ React Animation Tools :
 
-
 ## 💡 Framer Motion
 
 Complete documentation of the Framer Motion animation library. A production-ready motion library for React.
@@ -338,6 +337,24 @@ A web app like Enjoy CSS combines a code generator and a visual editor in one pa
 🔸 link: [Enjoy CSS](https://enjoycss.com/)
 
 <img src="https://www.bypeople.com/wp-content/uploads/2015/01/online-css-generator.png" width="50%">
+
+##
+## 💡 Gradient Buttons
+
+CSS Gradient Buttons. Hundreds of CSS gradients buttons. One click copy to clipboard. Weekly FREE UI/UX and Web Dev resources straight to your inbox.
+
+🔸 link: [Gradient Buttons](https://gradientbuttons.colorion.co/)
+
+<img src="https://gradientbuttons.colorion.co/share.jpg" width="50%">
+
+##
+## 💡 CSS Animated Hamburger
+
+hamburgers. Tasty CSS-animated hamburgers. Click (or tap) each one to see it animate. Slider. Squeeze. Arrow. Arrow Alt. Arrow Turn. Spin. Elastic.
+
+🔸 link: [CSS Animated Hamburger](https://jonsuh.com/hamburgers/)
+
+<img src="https://jonsuh.com/hamburgers/hamburgers.jpg" width="50%">
 
 ##
 # ❤ Web/Landing Pages Inspiration :
