@@ -41,11 +41,11 @@ One way to animate with React is to use CSS transitions and animations. These ar
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*1ryk1ozTUD79e1FZ.png" width="50%">
 
 ##
-## 💡 React-Motion
+## 💡 React-move
 
 React-move has lifecycle events on its transitions. You can pass a function to be called on transition start, interrupt or end.
 
-🔸 link: [React-Motion](https://react-move-docs.netlify.app/#/)
+🔸 link: [React-move](https://react-move-docs.netlify.app/#/)
 
 <img src="https://www.syncfusion.com/blogs/wp-content/uploads/2022/08/React-Move.png" width="50%">
 
@@ -151,7 +151,7 @@ A small JS library to overlay images on top of the current page.
 <img src="https://web-saku.net/wp-content/uploads/2021/06/lightbox-screenshot.jpg" width="50%">
 
 
-
+##
 # ❤ React UI Libraries :
 
 ## 💡 Material UI
@@ -196,7 +196,7 @@ Chakra UI is a modular and accessible React component library that provides you 
 
 🔸 link: [Chakra UI](https://chakra-ui.com/)
 
-<img src="https://s3-alpha.figma.com/hub/file/2764577929/4b6e189f-a0ea-4fbb-8e3e-f5241451f63d-cover.png" width="50%">
+<img src="https://www.ui-themes.com/content/images/2021/11/creative-tim-purity-dashboard-cover-1.jpg" width="50%">
 
 
 ##
@@ -208,14 +208,14 @@ Headless UI is a React component library that provides a set of unstyled UI comp
 
 <img src="https://i.ytimg.com/vi/CkIixGA1LqI/maxresdefault.jpg" width="50%">
 
-
+##
 ## 💡 Mantine
 
 Mantine is a React component library that provides a comprehensive collection of responsive, customizable, and accessible components that can be used to build modern web applications. It is designed with a focus on simplicity, flexibility, and performance, and it offers a wide range of features.
 
 🔸 link: [Mantine](https://ant.design/)
 
-<img src="https://s3-alpha.figma.com/hub/file/2749375489/70102a24-fb1d-42c1-aeb2-689097dabc4c-cover.png" width="50%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zKQByeiq--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/929qiimftsp9l22o0w7k.png" width="50%">
 
 ##
 ## 💡 Next UI
@@ -245,8 +245,16 @@ Grommet UI is a React component library that provides a comprehensive collection
 <img src="https://teleporthq.io/blog/content/images/2022/06/4-grommet.png" width="50%">
 
 ##
-
 # ❤ Best CSS Generators :
+
+##
+## 💡 Haikei
+
+Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
+
+🔸 link: [Haikei](https://haikei.app/)
+
+<img src="https://pbs.twimg.com/media/FcgzNlhWQAAvy9U?format=jpg&name=large" width="50%">
 
 ## 💡 BlobMaker
 
@@ -292,15 +300,6 @@ CSS code generator that will help with colors, gradients and shadows to adapt th
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637991810158/zX-VEqbSy.png?auto=compress,format&format=webp" width="50%">
 
-##
-## 💡 Haikei
-
-Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
-
-🔸 link: [Haikei](https://haikei.app/)
-
-<img src="https://pbs.twimg.com/media/FcgzNlhWQAAvy9U?format=jpg&name=large" width="50%">
-
 
 ##
 ## 💡 Easing Gradients
@@ -340,7 +339,7 @@ A web app like Enjoy CSS combines a code generator and a visual editor in one pa
 
 <img src="https://www.bypeople.com/wp-content/uploads/2015/01/online-css-generator.png" width="50%">
 
-
+##
 # ❤ Web/Landing Pages Inspiration :
 
 ## 💡 Awwwards
