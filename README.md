@@ -170,6 +170,15 @@ CSS code generator that will help with colors, gradients and shadows to adapt th
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637991810158/zX-VEqbSy.png?auto=compress,format&format=webp" width="50%">
 
+##
+## 💡 Haikei
+
+Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
+
+🔸 link: [Haikei](https://haikei.app/)
+
+<img src="https://pbs.twimg.com/media/FcgzNlhWQAAvy9U?format=jpg&name=large" width="50%">
+
 
 ##
 ## 💡 Easing Gradients
@@ -198,6 +207,16 @@ Styles are defined in a wizard-like manner with CSS3 Generator. The results can 
 🔸 link: [CSS3 Generator](https://www.css3generator.com/)
 
 <img src="https://static.packt-cdn.com/products/9781788395038/graphics/c32365a4-c000-47da-a95a-daab89ee564f.png" width="50%">
+
+
+##
+## 💡 Enjoy CSS
+
+A web app like Enjoy CSS combines a code generator and a visual editor in one package. By adding CSS3 properties to page elements like buttons and input fields, you can customize the look and feel of your page. There are many CSS properties that allow you to create almost anything you can imagine using transitions and transforms.
+
+🔸 link: [Enjoy CSS](https://enjoycss.com/)
+
+<img src="https://www.bypeople.com/wp-content/uploads/2015/01/online-css-generator.png" width="50%">
 
 
 
