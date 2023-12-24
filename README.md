@@ -68,60 +68,108 @@ React Awesome Reveal is a library for React apps that provides a set of curated 
 <img src="https://www.syncfusion.com/blogs/wp-content/uploads/2022/08/React-Awesome-Reveal.png" width="50%">
 
 
-# ❤ Web/Landing Pages Inspiration :
+# ❤ Javascript Animation Libraries :
 
-## 💡 Awwwards
+## 💡 GSAP
 
-Awwwards is a professional web design website that aims to recognize the best of innovative web design.
+GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff.
 
-🔸 link: [Awwwards](https://www.awwwards.com/)
+🔸 link: [GSAP](https://gsap.com/)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VvN8-7a0TRmTs48axaMFqQ.png" width="50%">
-
-##
-## 💡 Footer Design
-
-I know looking for footers can be frustrating so yeah Footer is a curated gallery of the top website footer inspo on earth.
-
-🔸 link: [Footer Design](https://www.footer.design/)
-
-<img src="https://images.fastcompany.net/image/upload/w_1200,c_limit,q_auto:best/wp-cms/uploads/2023/10/03-90972016-design-renaissance.jpg" width="50%">
+<img src="https://cdn.landingpage.love/images/gsap.jpg" width="50%">
 
 ##
-## 💡 Maxibestof
+## 💡 Lax.js
 
-This is an inspiration library of UX/UI design patterns examples from SaaS products. Also indicates fonts used on websites.
+Simple & lightweight vanilla javascript plugin to create smooth & beautiful animations when you scroll.
 
-🔸 link: [Maxibestofs](https://maxibestof.one/)
+🔸 link: [Lax.js](https://alexfox.dev/lax.js/)
 
-<img src="https://d2ocroys3p1hkd.cloudfront.net/3f514927fd074f5d3423800cb23a01fa.jpg" width="50%">
-
-##
-## 💡 Daek Mood Design
-
-Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites.
-
-🔸 link: [Daek Mood Design](https://www.darkmodedesign.com/)
-
-<img src="https://klizos.com/wp-content/uploads/image2.jpg" width="50%">
+<img src="https://notes.sharesl.net/wp-content/uploads/2021/12/lax-ogp-1200x630.png" width="50%">
 
 ##
-## 💡 Landing Love
+## 💡 ScrollMagic
 
-Check out this amazing collection of over 600 animation websites showcasing the best designs out there.
+We have listed more than 10 alternatives to ScrollMagic. You can find them below. The top competitors are: WOW.js, Lax.js, and ScrollReveal. Apart from the top ones, people also compare ScrollMagic with Anime.js, Snap Scroll, and GSAP. The latest product that identified ScrollMagic as a competitor is Josh.js.
 
-🔸 link: [Landing Love](https://www.landing.love/)
+🔸 link: [ScrollMagic](https://scrollmagic.io/)
 
-<img src="https://www.landing.love/img/social.jpg" width="50%">
+<img src="https://www.drupal.org/files/project-images/drupal-scrollmagic-jquery-plugin-for-magical-scroll-interactions.png" width="50%">
 
 ##
-## 💡 Siteinspire
+## 💡 Three js
 
-Siteinspire showcases one of the finest web and interactive design. So cool.
+An easy to use, lightweight, 3D library with a default WebGL renderer.
 
-🔸 link: [Siteinspire](https://www.siteinspire.com/)
+🔸 link: [Three js](https://threejs.org/)
 
-<img src="https://the-responsive.com/wp-content/uploads/2018/01/d-the-responsive-siteinspire.jpg" width="50%">
+<img src="https://tiiny.host/blog/assets/images/1_adcnxab1qc_5kf8juxdeya.png" width="50%">
+
+##
+## 💡 Chocolat.js
+
+Chocolat.js enables you to display one or several images staying on the same page. The choice is left to the user to group together a series of pictures as ..
+
+🔸 link: [Chocolat.js](http://chocolat.insipi.de/)
+
+<img src="" width="50%">
+
+##
+## 💡 Animate on Scroll
+
+Animate on scroll library to reveal animations when You scroll.
+
+🔸 link: [Animate on Scroll](https://michalsnik.github.io/aos/)
+
+<img src="https://www.bypeople.com/wp-content/uploads/2016/06/aos2.jpg" width="50%">
+
+##
+## 💡 Rough Notation
+
+A small JavaScript library to create and animate annotations on a web page. Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can be annotated in a number of different styles. Animation duration and delay can be configured, or just turned off.
+
+🔸 link: [Rough Notation](https://roughnotation.com/)
+
+<img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-19-at-7.24.50-AM.png?fit=1374%2C632&ssl=1" width="50%">
+
+##
+## 💡 Particles.js
+
+A lightweight JavaScript library for creating particles
+
+🔸 link: [Animate on Scroll](https://vincentgarreau.com/particles.js/#default)
+
+<img src="https://i.stack.imgur.com/Ib1ps.png" width="50%">
+
+##
+## 💡 Lightbox2
+
+A small JS library to overlay images on top of the current page.
+
+🔸 link: [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
+
+<img src="https://web-saku.net/wp-content/uploads/2021/06/lightbox-screenshot.jpg" width="50%">
+
+
+
+# ❤ React UI Libraries :
+
+## 💡 Material UI
+
+Material UI is a React component library that implements Google's Material Design. It provides a comprehensive collection of pre-built components that are ready for use in production right out-of-the-box.
+
+🔸 link: [Material UI](https://mui.com/)
+
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" width="50%">
+
+##
+## 💡 Ant Design
+
+A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize.
+
+🔸 link: [Ant Design](https://getwaves.io/)
+
+<img src="https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg" width="50%">
 
 
 # ❤ Best CSS Generators :
@@ -219,4 +267,57 @@ A web app like Enjoy CSS combines a code generator and a visual editor in one pa
 <img src="https://www.bypeople.com/wp-content/uploads/2015/01/online-css-generator.png" width="50%">
 
 
+# ❤ Web/Landing Pages Inspiration :
 
+## 💡 Awwwards
+
+Awwwards is a professional web design website that aims to recognize the best of innovative web design.
+
+🔸 link: [Awwwards](https://www.awwwards.com/)
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VvN8-7a0TRmTs48axaMFqQ.png" width="50%">
+
+##
+## 💡 Footer Design
+
+I know looking for footers can be frustrating so yeah Footer is a curated gallery of the top website footer inspo on earth.
+
+🔸 link: [Footer Design](https://www.footer.design/)
+
+<img src="https://images.fastcompany.net/image/upload/w_1200,c_limit,q_auto:best/wp-cms/uploads/2023/10/03-90972016-design-renaissance.jpg" width="50%">
+
+##
+## 💡 Maxibestof
+
+This is an inspiration library of UX/UI design patterns examples from SaaS products. Also indicates fonts used on websites.
+
+🔸 link: [Maxibestofs](https://maxibestof.one/)
+
+<img src="https://d2ocroys3p1hkd.cloudfront.net/3f514927fd074f5d3423800cb23a01fa.jpg" width="50%">
+
+##
+## 💡 Daek Mood Design
+
+Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites.
+
+🔸 link: [Daek Mood Design](https://www.darkmodedesign.com/)
+
+<img src="https://klizos.com/wp-content/uploads/image2.jpg" width="50%">
+
+##
+## 💡 Landing Love
+
+Check out this amazing collection of over 600 animation websites showcasing the best designs out there.
+
+🔸 link: [Landing Love](https://www.landing.love/)
+
+<img src="https://www.landing.love/img/social.jpg" width="50%">
+
+##
+## 💡 Siteinspire
+
+Siteinspire showcases one of the finest web and interactive design. So cool.
+
+🔸 link: [Siteinspire](https://www.siteinspire.com/)
+
+<img src="https://the-responsive.com/wp-content/uploads/2018/01/d-the-responsive-siteinspire.jpg" width="50%">
