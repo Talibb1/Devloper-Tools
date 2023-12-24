@@ -144,13 +144,60 @@ A free SVG wave generator to make unique SVG waves for your next web design. Cho
 <img src="https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg" width="50%">
 
 ##
-## 💡 Get Waves
+## 💡 Fancy Border Radius
 
-A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize.
+A visual generator to build organic looking shapes with the help of CSS3 border-radius property.
 
-🔸 link: [Get Waves](https://getwaves.io/)
+🔸 link: [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 
-<img src="https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg" width="50%">
+<img src="https://mrfreetools.com/wp-content/uploads/2022/03/Screenshot-Fancy-Border-Radius.jpg" width="50%">
+
+##
+## 💡 Glassmorphism CSS 
+
+Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+
+🔸 link: [Glassmorphism CSS](https://ui.glass/generator/)
+
+<img src="https://ph-files.imgix.net/2d5205f8-abb1-4533-bff6-77b1d0f36805.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1" width="50%">
+
+##
+## 💡 Neumorphism.io
+
+CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
+
+🔸 link: [Neumorphism.io](https://neumorphism.io/#e0e0e0)
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637991810158/zX-VEqbSy.png?auto=compress,format&format=webp" width="50%">
+
+
+##
+## 💡 Easing Gradients
+
+You can enhance your gradients even further with a non-linear color mix and custom color space using this generator.
+
+🔸 link: [Easing Gradients](https://larsenwork.com/easing-gradients/)
+
+<img src="https://www.bypeople.com/wp-content/uploads/2018/06/easing-gradient-sketch-plugin.png" width="50%">
+
+
+##
+## 💡 CSS3 Mikeplate
+
+It is a project created by freelance developer Mike Plate. This tool not only supports CSS3 properties but also lets you preview effects on multiple elements and change the contents of the boxes.
+
+🔸 link: [CSS3 Mikeplate](https://css3.mikeplate.com/)
+
+<img src="https://www.htmlgoodies.com/wp-content/uploads/2021/04/7d4ff6c26dfb7dba0ef69005e541a12b.png" width="50%">
+
+##
+## 💡 CSS3 Generator
+
+Styles are defined in a wizard-like manner with CSS3 Generator. The results can be customized using a wide range of effects, such as border radius, text shadow, box shadow, multiple columns, transforms, and transitions. Lastly, complete a few boxes so they will be applied to the preview element.
+
+🔸 link: [CSS3 Generator](https://www.css3generator.com/)
+
+<img src="https://static.packt-cdn.com/products/9781788395038/graphics/c32365a4-c000-47da-a95a-daab89ee564f.png" width="50%">
 
 
 
