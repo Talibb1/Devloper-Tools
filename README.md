@@ -49,6 +49,37 @@ React-move has lifecycle events on its transitions. You can pass a function to b
 <img src="https://www.syncfusion.com/blogs/wp-content/uploads/2022/08/React-Move.png" width="50%">
 
 ##
+## 💡 React Awesome Reveal
+
+React Awesome Reveal is a library for React apps that provides a set of curated animated primitives. They can be used to add revealing animations to your components when they enter the browser viewport as the user scrolls the page.
+
+🔸 link: [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
+
+<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2022/08/React-Awesome-Reveal.png" width="50%">
+
+##
+# ❤ React 3D-Animation Tools :
+
+##
+## 💡 Three js
+
+An easy to use, lightweight, 3D library with a default WebGL renderer.
+
+🔸 link: [Three js](https://threejs.org/)
+
+<img src="https://tiiny.host/blog/assets/images/1_adcnxab1qc_5kf8juxdeya.png" width="50%">
+
+##
+## 💡 React Three Fiber
+
+React-three-fiber is a React renderer for three. js. Build your scene declaratively with re-usable,
+self-contained components that react to state, are readily interactive and can participate in React's ecosystem.
+
+🔸 link: [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+
+<img src="https://i.ytimg.com/vi/vTfMjI4rVSI/maxresdefault.jpg" width="50%">
+
+##
 ## 💡 React Anime / Anime.js
 
 Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API, It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
@@ -58,13 +89,31 @@ Anime.js is a lightweight JavaScript animation library with a simple, yet powerf
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ia8jP495ZSzo4H-_caXhbg.png" width="50%">
 
 ##
-## 💡 React Awesome Reveal
+## 💡 Babylon.js
 
-React Awesome Reveal is a library for React apps that provides a set of curated animated primitives. They can be used to add revealing animations to your components when they enter the browser viewport as the user scrolls the page.
+Babylon.js is a real time 3D engine using a JavaScript library for displaying 3D graphics in a web browser via HTML5. The source code is available on GitHub and distributed under the Apache License 2.0.
 
-🔸 link: [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
+🔸 link: [Babylon.js](https://www.babylonjs.com/)
 
-<img src="https://www.syncfusion.com/blogs/wp-content/uploads/2022/08/React-Awesome-Reveal.png" width="50%">
+<img src="https://doc.babylonjs.com/img/home/babylonjs_identity_color.png" width="50%">
+
+##
+## 💡 A frame
+
+A-Frame is an open-source web framework for building virtual reality experiences. It is maintained by developers from Supermedium and Google. A-Frame is an entity component system framework for Three.js where developers can create 3D and WebXR scenes using HTML.
+
+🔸 link: [A frame](https://aframe.io/)
+
+<img src="https://bashooka.com/wp-content/uploads/2019/05/3d-javascript-bshk-2.jpg" width="50%">
+
+##
+## 💡 Babylon.js
+
+Babylon.js is a real time 3D engine using a JavaScript library for displaying 3D graphics in a web browser via HTML5. The source code is available on GitHub and distributed under the Apache License 2.0.
+
+🔸 link: [Babylon.js](https://www.babylonjs.com/)
+
+<img src="https://doc.babylonjs.com/img/home/babylonjs_identity_color.png" width="50%">
 
 
 # ❤ Javascript Animation Libraries :
@@ -94,15 +143,6 @@ We have listed more than 10 alternatives to ScrollMagic. You can find them below
 🔸 link: [ScrollMagic](https://scrollmagic.io/)
 
 <img src="https://www.drupal.org/files/project-images/drupal-scrollmagic-jquery-plugin-for-magical-scroll-interactions.png" width="50%">
-
-##
-## 💡 Three js
-
-An easy to use, lightweight, 3D library with a default WebGL renderer.
-
-🔸 link: [Three js](https://threejs.org/)
-
-<img src="https://tiiny.host/blog/assets/images/1_adcnxab1qc_5kf8juxdeya.png" width="50%">
 
 ##
 ## 💡 Chocolat.js
