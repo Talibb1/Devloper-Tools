@@ -84,9 +84,27 @@ self-contained components that react to state, are readily interactive and can p
 
 Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API, It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
 
-🔸 link: [React-Motion](https://animejs.com/)
+🔸 link: [Anime.js](https://animejs.com/)
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ia8jP495ZSzo4H-_caXhbg.png" width="50%">
+
+##
+## 💡 Sketchfab
+
+Sketchfab is a 3D modeling platform website to publish, share, discover, buy and sell 3D, VR and AR content. It provides a viewer based on the WebGL and WebXR technologies that allows users to display 3D models on the web, to be viewed on any mobile browser, desktop browser or Virtual Reality headset.
+
+🔸 link: [Sketchfab](https://sketchfab.com/)
+
+<img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-text.png" width="50%">
+
+##
+## 💡 Webgi
+
+WebGL is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. WebGL is fully 
+
+🔸 link: [Webgi](https://webgi.xyz/)
+
+<img src="https://www.smartwebsolutions.org/blog/wp-content/uploads/2023/07/What-is-WebGL.png" width="50%">
 
 ##
 ## 💡 Babylon.js
