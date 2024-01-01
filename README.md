@@ -107,15 +107,6 @@ A-Frame is an open-source web framework for building virtual reality experiences
 <img src="https://bashooka.com/wp-content/uploads/2019/05/3d-javascript-bshk-2.jpg" width="50%">
 
 ##
-## 💡 Babylon.js
-
-Babylon.js is a real time 3D engine using a JavaScript library for displaying 3D graphics in a web browser via HTML5. The source code is available on GitHub and distributed under the Apache License 2.0.
-
-🔸 link: [Babylon.js](https://www.babylonjs.com/)
-
-<img src="https://doc.babylonjs.com/img/home/babylonjs_identity_color.png" width="50%">
-
-
 # ❤ Javascript Animation Libraries :
 
 ## 💡 GSAP
@@ -202,15 +193,6 @@ Material UI is a React component library that implements Google's Material Desig
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" width="50%">
 
 ##
-## 💡 React Bootstrap
-
-React Bootstrap is a popular React component library that implements the Bootstrap CSS framework. It provides a comprehensive collection of pre-built components that are ready for use in production right out-of-the-box.
-
-🔸 link: [React Bootstrap](https://react-bootstrap.netlify.app/)
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*yc77vVE3oOiaLN2zy_RSMg.png" width="50%">
-
-##
 ## 💡 Tailwind CSS
 
 Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
@@ -218,6 +200,15 @@ Tailwind CSS is a utility-first CSS framework for rapidly building modern websit
 🔸 link: [Tailwind CSS](https://tailwindcss.com/)
 
 <img src="https://areknawo.com/content/images/2021/03/_55sqzokhb.png" width="50%">
+
+##
+## 💡 React Bootstrap
+
+React Bootstrap is a popular React component library that implements the Bootstrap CSS framework. It provides a comprehensive collection of pre-built components that are ready for use in production right out-of-the-box.
+
+🔸 link: [React Bootstrap](https://react-bootstrap.netlify.app/)
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*yc77vVE3oOiaLN2zy_RSMg.png" width="50%">
 
 ##
 ## 💡 Ant Design
@@ -248,15 +239,6 @@ Headless UI is a React component library that provides a set of unstyled UI comp
 <img src="https://i.ytimg.com/vi/CkIixGA1LqI/maxresdefault.jpg" width="50%">
 
 ##
-## 💡 Mantine
-
-Mantine is a React component library that provides a comprehensive collection of responsive, customizable, and accessible components that can be used to build modern web applications. It is designed with a focus on simplicity, flexibility, and performance, and it offers a wide range of features.
-
-🔸 link: [Mantine](https://ant.design/)
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zKQByeiq--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/929qiimftsp9l22o0w7k.png" width="50%">
-
-##
 ## 💡 Next UI
 
 Next UI is a React component library that provides a comprehensive collection of pre-built components that are designed to be fast, light, and accessible. It is built on top of React and Tailwind CSS.
@@ -264,6 +246,15 @@ Next UI is a React component library that provides a comprehensive collection of
 🔸 link: [Next UI](https://nextui.org/)
 
 <img src="https://nextui.org/twitter-cards/nextui.jpeg" width="50%">
+
+##
+## 💡 Mantine
+
+Mantine is a React component library that provides a comprehensive collection of responsive, customizable, and accessible components that can be used to build modern web applications. It is designed with a focus on simplicity, flexibility, and performance, and it offers a wide range of features.
+
+🔸 link: [Mantine](https://ant.design/)
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zKQByeiq--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/929qiimftsp9l22o0w7k.png" width="50%">
 
 ##
 ## 💡 Semantic UI React
